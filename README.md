@@ -2,7 +2,7 @@
 
 Count how many time a word appears into a input sentence.
 
-## contarPAlabras(String sentence);
+## contarPalabras(String sentence);
 ### input: 
 - Key: String sentece.
 ## output: 
