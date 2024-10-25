@@ -2,6 +2,14 @@
 
 Count how many time a word appears into a input sentence.
 
+## contarPAlabras(String sentence);
+### input: 
+- Key: String sentece.
+## output: 
+- void.
+## Trows:
+each word with its freceuncy.
+
 
 ### EXPLANATION
 
